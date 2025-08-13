@@ -1,0 +1,9 @@
+route_id,route_type,length_km
+R01,suburban,8.9
+R02,urban,16.3
+R03,suburban,33.0
+R04,suburban,11.2
+R05,urban,9.1
+R06,urban,26.7
+R07,urban,15.4
+R08,suburban,28.2
